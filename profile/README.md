@@ -81,7 +81,8 @@ We welcome contributions, questions, and collaboration.
 Repositories are grouped by purpose:
 
 - `UEL/` – Core vision projects  
-- `Terminal-Academy/` – Courses and labs  
+- `Terminal-Academy/` – Courses and labs
+- `Projects/` - Conatins all our projects for UEL 
 - `.github/` – Org profile configuration and contribution guidelines
 
 See pinned repositories on this profile for quick access.
