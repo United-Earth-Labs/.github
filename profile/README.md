@@ -71,9 +71,8 @@ If you're excited by big ideas **and** want practical skills, here’s how to pa
 
 We welcome contributions, questions, and collaboration.
 
-- **Email:** (Add official organization email)  
-- **GitHub Discussions / Issues:** Open a conversation in the relevant repo  
-- **Social / LinkedIn:** (Add links if available)
+- **Email:**   mailto:adityaraj1234@duck.com
+- **Social / LinkedIn:** [Instagram](https://www.instagram.com/unitedearthlabs/)
 
 ---
 
