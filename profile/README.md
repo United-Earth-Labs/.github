@@ -71,8 +71,8 @@ If you're excited by big ideas **and** want practical skills, here’s how to pa
 
 We welcome contributions, questions, and collaboration.
 
-- **Email:**   mailto:adityaraj1234@duck.com
-- **Social / LinkedIn:** [Instagram](https://www.instagram.com/unitedearthlabs/)
+- **Email:**   [Gmail](mailto:adityaraj1234@duck.com)
+- **Social / LinkedIn:** [Instagram](https://www.instagram.com/unitedearthlabs/) [Linkdin](https://www.linkedin.com/in/united-earth-labs-6506533a6/)
 
 ---
 
